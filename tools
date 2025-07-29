@@ -3,5 +3,5 @@ containerzation-- docker, kubernetees
 Automation: Terraform, ansible
 cloud= azure, aws, gcp
 monitoring= Grafana, promethus
-CI?CD : jenskins
-learn one of coding language python or go lang
+CI/CD : jenskins
+learn one of coding language python or go lang best for scripting.

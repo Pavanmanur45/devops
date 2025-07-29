@@ -4,3 +4,4 @@ Automation: Terraform, ansible
 cloud= azure, aws, gcp
 monitoring= Grafana, promethus
 CI?CD : jenskins
+learn one coding langiuage python or go lang
